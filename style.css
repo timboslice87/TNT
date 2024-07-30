@@ -1,0 +1,80 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #faf8f8;
+    background-image: url(images/bg2.jpeg);
+    color: #333;
+    background-size: contain;
+}
+
+header {
+    background-image: url();
+    color: rgb(21, 8, 8);
+    padding: 60px 0;
+    
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+header p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+}
+
+.navbar {
+    transition: top 0.3s;
+}
+
+.navbar-toggler {
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+
+
+.background-image {
+    background-image: url('); /* Add your image URL here */
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #333;
+    font-weight: 600;
+}
+
+.services .card-title {
+    color: #f5f8fb;
+    font-weight: 600;
+}
+
+.services .card-text {
+    font-size: 1em;
+}
+
+.additional-info p {
+    font-size: 1.2em;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+}
